@@ -1,7 +1,7 @@
 # RAG Multimodal
 
 Systeme de Retrieval-Augmented Generation (RAG) avec support multimodal permettant d'indexer et d'interroger des documents PDF et des images.
-
+<img width="1383" height="697" alt="Image" src="https://github.com/user-attachments/assets/b5c0ab20-d70a-4a4d-ac38-4b465e95c928" />
 ## Description
 
 Ce projet implémente un pipeline RAG complet qui :
