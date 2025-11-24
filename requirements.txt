@@ -1,0 +1,8 @@
+openai
+psycopg2-binary
+pgvector
+pypdf
+pillow
+python-dotenv
+tqdm
+streamlit
